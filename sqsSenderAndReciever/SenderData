@@ -1,0 +1,188 @@
+Test Event Name
+test1
+
+Response
+{
+  "statusCode": 200,
+  "body": "Message sent successfully!"
+}
+
+Function Logs
+aultVendor: 'RBDS',
+  delayed: false,
+  vendorKeys: [ 'RBDS', 'ARCA', 'NLS' ]
+}
+2024-04-26T21:55:19.667Z	c9ce723c-b288-4690-921e-3426addc1c2b	INFO	{
+  issueId: 200621,
+  cnbcSymbol: 'MHK',
+  vendorSymbol: 'MHK',
+  symbolDesc: 'Mohawk Industries Inc',
+  shares: null,
+  cached: false,
+  symbolData: {
+    lastPrice: 115.45,
+    change: 5.18,
+    changePct: 4.6976,
+    changeAfter: 0,
+    changePre: 3.73,
+    changePctAfter: 0,
+    changePctPre: 3.3826,
+    prevClosePrice: 110.27,
+    volume: 1100161,
+    yearhHighInd: 0,
+    yearhLowInd: 0,
+    impliedVolatality: 0.3082,
+    pctTenDayVol: 1.7005,
+    peRatio: 0,
+    yield: 0,
+    tradingStatus: 1,
+    lastTime: '21:05:32.000',
+    vendor: 'RBDS'
+  },
+  defaultVendor: 'RBDS',
+  delayed: false,
+  vendorKeys: [ 'RBDS', 'ARCA', 'NLS' ]
+}
+2024-04-26T21:55:19.667Z	c9ce723c-b288-4690-921e-3426addc1c2b	INFO	{
+  issueId: 875325789,
+  cnbcSymbol: 'SOLV',
+  vendorSymbol: 'SOLV.K',
+  symbolDesc: 'Solventum Corp',
+  shares: null,
+  cached: false,
+  symbolData: {
+    lastPrice: 64.43,
+    change: 2.6,
+    changePct: 4.2051,
+    changeAfter: 0,
+    changePre: -0.38,
+    changePctAfter: 0,
+    changePctPre: -0.6146,
+    prevClosePrice: 61.83,
+    volume: 1641137,
+    yearhHighInd: 0,
+    yearhLowInd: 0,
+    impliedVolatality: 0.426,
+    pctTenDayVol: 0.9277,
+    peRatio: 7.9224,
+    yield: 0,
+    tradingStatus: 0,
+    lastTime: '21:32:52.000',
+    vendor: 'RBDS'
+  },
+  defaultVendor: 'RBDS',
+  delayed: false,
+  vendorKeys: [ 'RBDS', 'ARCA', 'NLS' ]
+}
+2024-04-26T21:55:19.668Z	c9ce723c-b288-4690-921e-3426addc1c2b	INFO	{
+  issueId: 20248442,
+  cnbcSymbol: 'AVGO',
+  vendorSymbol: 'AVGO.O',
+  symbolDesc: 'Broadcom Inc',
+  shares: null,
+  cached: false,
+  symbolData: {
+    lastPrice: 1344.07,
+    change: 49.65,
+    changePct: 3.8357,
+    changeAfter: -1.265,
+    changePre: 19.98,
+    changePctAfter: -0.0941,
+    changePctPre: 1.5435,
+    prevClosePrice: 1294.42,
+    volume: 2409248,
+    yearhHighInd: 0,
+    yearhLowInd: 0,
+    impliedVolatality: 0.3714,
+    pctTenDayVol: 0.9153,
+    peRatio: 39.2957,
+    yield: 1.6223,
+    tradingStatus: 1,
+    lastTime: '21:54:43.000',
+    vendor: 'RBDS'
+  },
+  defaultVendor: 'RBDS',
+  delayed: false,
+  vendorKeys: [ 'RBDS', 'ARCA', 'NLS' ]
+}
+2024-04-26T21:55:19.668Z	c9ce723c-b288-4690-921e-3426addc1c2b	INFO	big mover list
+2024-04-26T21:55:19.668Z	c9ce723c-b288-4690-921e-3426addc1c2b	INFO	[
+  {
+    ticker: 'RMD',
+    symbolDesc: 'Resmed Inc',
+    priceChange: 18.8856,
+    datetime: '21:46:15.000'
+  },
+  {
+    ticker: 'GOOGL',
+    symbolDesc: 'Alphabet Class A',
+    priceChange: 10.2244,
+    datetime: '21:54:57.000'
+  },
+  {
+    ticker: 'GOOG',
+    symbolDesc: 'Alphabet Class C',
+    priceChange: 9.9652,
+    datetime: '21:55:08.000'
+  },
+  {
+    ticker: 'SMCI',
+    symbolDesc: 'Super Micro Computer Inc',
+    priceChange: 8.8951,
+    datetime: '21:55:07.000'
+  },
+  {
+    ticker: 'BALL',
+    symbolDesc: 'Ball Corp',
+    priceChange: 6.6463,
+    datetime: '21:43:49.000'
+  },
+  {
+    ticker: 'NVDA',
+    symbolDesc: 'NVIDIA Corp',
+    priceChange: 6.1756,
+    datetime: '21:55:05.000'
+  },
+  {
+    ticker: 'KLAC',
+    symbolDesc: 'KLA Corp',
+    priceChange: 4.9498,
+    datetime: '21:32:51.000'
+  },
+  {
+    ticker: 'TER',
+    symbolDesc: 'Teradyne Inc',
+    priceChange: 4.7929,
+    datetime: '21:49:04.000'
+  },
+  {
+    ticker: 'TROW',
+    symbolDesc: 'T Rowe Price Group Inc',
+    priceChange: 4.7689,
+    datetime: '21:22:42.000'
+  },
+  {
+    ticker: 'MHK',
+    symbolDesc: 'Mohawk Industries Inc',
+    priceChange: 4.6976,
+    datetime: '21:05:32.000'
+  },
+  {
+    ticker: 'SOLV',
+    symbolDesc: 'Solventum Corp',
+    priceChange: 4.2051,
+    datetime: '21:32:52.000'
+  },
+  {
+    ticker: 'AVGO',
+    symbolDesc: 'Broadcom Inc',
+    priceChange: 3.8357,
+    datetime: '21:54:43.000'
+  }
+]
+2024-04-26T21:55:20.746Z	c9ce723c-b288-4690-921e-3426addc1c2b	INFO	Message sent successfully!
+END RequestId: c9ce723c-b288-4690-921e-3426addc1c2b
+REPORT RequestId: c9ce723c-b288-4690-921e-3426addc1c2b	Duration: 2205.84 ms	Billed Duration: 2206 ms	Memory Size: 128 MB	Max Memory Used: 54 MB
+
+Request ID
+c9ce723c-b288-4690-921e-3426addc1c2b
