@@ -31,3 +31,10 @@ The Restful API is a system that allows two systems to exchange information over
 The scope of this project is get a start in learning about cloud computing through the content of sending emails about the biggest stock movers on the market currently. With the skills that we have learned throughout this project, we have proof of understanding that we can show to employers. With the skills learned, we have a greater chance at getting jobs within our fields of interest.
 
 -----------------------------------------------------------------------------------------------------------------------------
+
+### Resources/Work cited
+
+https://docs.aws.amazon.com/lambda/latest/dg/welcome.html
+https://docs.aws.amazon.com/AWSSimpleQueueService/latest/SQSDeveloperGuide/welcome.html
+https://docs.aws.amazon.com/ses/latest/dg/Welcome.html
+https://aws.amazon.com/what-is/restful-api/
