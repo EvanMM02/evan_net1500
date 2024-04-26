@@ -1,0 +1,61 @@
+2024-04-26T21:53:06.981Z	ecd4364a-03de-4581-8db6-9bee0cd1422d	INFO	Received message:[{
+    "ticker": "RMD",
+    "symbolDesc": "Resmed Inc",
+    "priceChange": 18.8856,
+    "datetime": "21:46:15.000"
+},{
+    "ticker": "GOOGL",
+    "symbolDesc": "Alphabet Class A",
+    "priceChange": 10.2244,
+    "datetime": "21:52:37.000"
+},{
+    "ticker": "GOOG",
+    "symbolDesc": "Alphabet Class C",
+    "priceChange": 9.9652,
+    "datetime": "21:52:29.000"
+},{
+    "ticker": "SMCI",
+    "symbolDesc": "Super Micro Computer Inc",
+    "priceChange": 8.8951,
+    "datetime": "21:52:32.000"
+},{
+    "ticker": "BALL",
+    "symbolDesc": "Ball Corp",
+    "priceChange": 6.6463,
+    "datetime": "21:43:49.000"
+},{
+    "ticker": "NVDA",
+    "symbolDesc": "NVIDIA Corp",
+    "priceChange": 6.1756,
+    "datetime": "21:52:41.000"
+},{
+    "ticker": "KLAC",
+    "symbolDesc": "KLA Corp",
+    "priceChange": 4.9498,
+    "datetime": "21:32:51.000"
+},{
+    "ticker": "TER",
+    "symbolDesc": "Teradyne Inc",
+    "priceChange": 4.7929,
+    "datetime": "21:49:04.000"
+},{
+    "ticker": "TROW",
+    "symbolDesc": "T Rowe Price Group Inc",
+    "priceChange": 4.7689,
+    "datetime": "21:22:42.000"
+},{
+    "ticker": "MHK",
+    "symbolDesc": "Mohawk Industries Inc",
+    "priceChange": 4.6976,
+    "datetime": "21:05:32.000"
+},{
+    "ticker": "SOLV",
+    "symbolDesc": "Solventum Corp",
+    "priceChange": 4.2051,
+    "datetime": "21:32:52.000"
+},{
+    "ticker": "AVGO",
+    "symbolDesc": "Broadcom Inc",
+    "priceChange": 3.8357,
+    "datetime": "21:52:36.000"
+}]
